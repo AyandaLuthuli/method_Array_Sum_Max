@@ -1,5 +1,6 @@
 #Java Array Analyzer – Sum, Max, and Average
-This is a Java console application that allows users to input 10 numbers (e.g. marks or scores), then calculates and displays:
+
+-This is a Java console application that allows users to input 10 numbers (e.g. marks or scores), then calculates and displays:
 
 📈 The sum of the numbers
 
